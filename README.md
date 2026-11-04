@@ -101,7 +101,7 @@ Hello! I'm **Rafiqua Sultana**, an aspiring AI & Machine Learning Engineer passi
 <tr>
 <td width="50%" valign="top">
 
-<h3>🛡️ AI-Driven Ransomware Detection</h3>
+<h3>🛡️ AI-Driven Ransomware Detection System</h3>
 
 Detecting potential ransomware threats using AI-driven cybersecurity techniques.
 
