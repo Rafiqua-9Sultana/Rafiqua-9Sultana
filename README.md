@@ -1,6 +1,7 @@
 <div align="center">
 
-<![Rafiqua Sultana Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Rafiqua%20Sultana&fontSize=45&fontColor=ffffff&desc=Aspiring%20AI%20and%20Machine%20Learning%20Engineer&descSize=15)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Rafiqua%20Sultana&fontSize=45&fontColor=ffffff&desc=Aspiring%20AI%20and%20Machine%20Learning%20Engineer&descSize=15" width="100%" alt="Rafiqua Sultana Banner"/>
+
 <br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;Aspiring+AI+%26+Machine+Learning+Engineer;Exploring+AI%2C+ML+%26+Intelligent+Systems;Building+Projects+that+Solve+Real+Problems" alt="Typing SVG"/>
@@ -19,8 +20,6 @@
 
 ---
 
----
-
 ## 👩‍💻 About Me
 
 Hello! I'm **Rafiqua Sultana**, an aspiring AI & Machine Learning Engineer passionate about developing intelligent solutions and exploring emerging technologies.
@@ -33,6 +32,7 @@ Hello! I'm **Rafiqua Sultana**, an aspiring AI & Machine Learning Engineer passi
 - 🌱 Continuously learning and improving my technical skills.
 
 ---
+
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
@@ -93,10 +93,45 @@ Hello! I'm **Rafiqua Sultana**, an aspiring AI & Machine Learning Engineer passi
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
+---
 
 ## 🚀 Featured Projects
 
-<table>
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+<h3>🛡️ Veylix – Threat Intelligence</h3>
+
+An intelligent digital threat intelligence platform designed to identify, analyze, and understand potential online threats.
+
+<b>Technologies:</b> Python · AI/ML · Cybersecurity
+
+<br/><br/>
+
+<a href="https://github.com/Rafiqua-9Sultana/veylix-threat-intelligence">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="View Veylix Project"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🔍 Phishing URL Detection</h3>
+
+A project focused on identifying and detecting potentially malicious phishing URLs to help improve online security.
+
+<b>Technologies:</b> Python · Machine Learning · Cybersecurity
+
+<br/><br/>
+
+<a href="https://github.com/Rafiqua-9Sultana/phishing-url-detection">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="View Phishing URL Project"/>
+</a>
+
+</td>
+</tr>
+
 <tr>
 <td width="50%" valign="top">
 
@@ -104,19 +139,21 @@ Hello! I'm **Rafiqua Sultana**, an aspiring AI & Machine Learning Engineer passi
 
 Detecting potential ransomware threats using AI-driven cybersecurity techniques.
 
-**Technologies:** Python · Machine Learning · Cybersecurity
+<b>Technologies:</b> Python · Machine Learning · Cybersecurity
 
 </td>
+
 <td width="50%" valign="top">
 
 <h3>🩸 AI-Powered Blood Availability System</h3>
 
 Simplifying blood availability searches and access to blood resources.
 
-**Technologies:** Python · APIs · Database Management
+<b>Technologies:</b> Python · APIs · Database Management
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
@@ -124,24 +161,25 @@ Simplifying blood availability searches and access to blood resources.
 
 Exploring image transformation between cartoon-style and realistic images.
 
-**Technologies:** Python · Computer Vision · Deep Learning
+<b>Technologies:</b> Python · Computer Vision · Deep Learning
 
-<br/>
+<br/><br/>
 
 <a href="https://github.com/Rafiqua-9Sultana/cartoonizing-real-images">
 <img src="https://img.shields.io/badge/VIEW_PROJECT-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="View Cartoonizing Project"/>
 </a>
 
 </td>
+
 <td width="50%" valign="top">
 
 <h3>📊 Student Performance Prediction</h3>
 
 Predicting academic performance using machine learning techniques.
 
-**Technologies:** Python · Pandas · Scikit-learn
+<b>Technologies:</b> Python · Pandas · Scikit-learn
 
-<br/>
+<br/><br/>
 
 <a href="https://github.com/Rafiqua-9Sultana/student-performance-prediction">
 <img src="https://img.shields.io/badge/VIEW_PROJECT-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="View Student Performance Project"/>
@@ -149,6 +187,7 @@ Predicting academic performance using machine learning techniques.
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
@@ -156,54 +195,133 @@ Predicting academic performance using machine learning techniques.
 
 Exploring reinforcement learning through an interactive dinosaur game.
 
-**Technologies:** Python · Reinforcement Learning · Game AI
+<b>Technologies:</b> Python · Reinforcement Learning · Game AI
 
-<br/>
+<br/><br/>
 
 <a href="https://github.com/Rafiqua-9Sultana/trex-dino-rl">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="View T-Rex RL Project"/>
+<img src="https://img.shields.io/badge/VIEW_PROJECT-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="View T-Rex Project"/>
 </a>
 
 </td>
+
 <td width="50%" valign="top">
 
 <h3>🤖 AI & Machine Learning</h3>
 
 Interested in building intelligent applications, predictive models, and AI-driven solutions.
 
-**Focus Areas:** Artificial Intelligence · Machine Learning · Intelligent Systems
+<b>Focus Areas:</b> Artificial Intelligence · Machine Learning · Intelligent Systems
 
 </td>
 </tr>
 </table>
 
 ---
-## 📊 GitHub Statistics
 
-<div align="center">
+## 📊 GitHub Contribution Dashboard
 
-<a href="https://github.com/Rafiqua-9Sultana">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Rafiqua-9Sultana&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Statistics"/>
-</a>
+<p align="center">
+<i>My GitHub activity, coding statistics, and development journey.</i>
+</p>
 
-<a href="https://github.com/Rafiqua-9Sultana">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafiqua-9Sultana&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
-</a>
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rafiqua-9Sultana&bg_color=0d1117&color=c9d1d9&line=a78bfa&point=ffffff&area=true&hide_border=true" width="100%" alt="GitHub Contribution Graph"/>
+</p>
 
-<br/><br/>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Rafiqua-9Sultana&show_icons=true&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Statistics"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafiqua-9Sultana&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Most Used Languages"/>
+</p>
 
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rafiqua-9Sultana&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rafiqua-9Sultana&theme=tokyonight&hide_border=true" width="75%" alt="GitHub Contribution Streak"/>
+</p>
 
-</div>
+---
+
+## 💼 Open to Opportunities
+
+<p align="center">
+<i>I'm eager to learn, collaborate, and contribute to meaningful projects!</i>
+</p>
+
+<table width="100%">
+<tr>
+<td width="33%" align="center" valign="top">
+
+<h3>🎓 Internships</h3>
+
+Looking for opportunities to gain practical experience and grow my technical skills.
+
+<img src="https://img.shields.io/badge/OPEN_TO-INTERNSHIPS-B8A1FF?style=for-the-badge" alt="Open to Internships"/>
+
+</td>
+
+<td width="33%" align="center" valign="top">
+
+<h3>💻 Freelance Work</h3>
+
+Interested in building useful applications and contributing to real-world projects.
+
+<img src="https://img.shields.io/badge/OPEN_TO-FREELANCE-91DCCB?style=for-the-badge" alt="Open to Freelance"/>
+
+</td>
+
+<td width="33%" align="center" valign="top">
+
+<h3>🤝 Collaboration</h3>
+
+Happy to connect with developers and collaborate on AI, ML, and software projects.
+
+<img src="https://img.shields.io/badge/LET'S-COLLABORATE-FFB7C5?style=for-the-badge" alt="Open to Collaboration"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<p align="center">
+<b>Areas of Interest</b><br/>
+🤖 Artificial Intelligence &nbsp;|&nbsp;
+🧠 Machine Learning &nbsp;|&nbsp;
+🔐 AI-Driven Cybersecurity &nbsp;|&nbsp;
+💻 Software Development
+</p>
 
 ---
 
-## 📈 Contribution Graph
+## 📬 Connect With Me
 
-<div align="center">
+<p align="center">
+I'm always happy to connect with recruiters, developers, and fellow learners!
+</p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rafiqua-9Sultana&theme=tokyo-night&hide_border=true" width="100%" alt="Contribution Graph"/>
+<p align="center">
 
-</div>
+<a href="https://github.com/Rafiqua-9Sultana">
+<img src="https://img.shields.io/badge/GitHub-Visit%20My%20Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 
----
+<a href="https://github.com/Rafiqua-9Sultana?tab=repositories">
+<img src="https://img.shields.io/badge/My_Repositories-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
+</a>
+
+<a href="https://www.linkedin.com/in/rafiqua-sultana-a03270252">
+<img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="mailto:rafiquasultana09@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+</p>
+
+<br/>
+
+<p align="center">
+<b>💜 Learn continuously. Build thoughtfully. Make an impact.</b>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:bea7ff,50:b8e1ff,100:91dccb&height=120&section=footer" width="100%" alt="Pastel Gradient Footer"/>
