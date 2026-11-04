@@ -147,19 +147,19 @@ Detecting potential ransomware threats using AI-driven cybersecurity techniques.
 
 </td>
 
-<td width="50%" valign="top">
+<<td width="50%" valign="top">
 
 <h3>🩸 AI-Powered Blood Availability System</h3>
 
-Simplifying blood availability searches and access to blood resources.
+A smart blood availability platform designed to simplify donor searches, check blood resources, and connect people with available blood.
 
-<b>Technologies:</b> Python · APIs · Database Management
+<b>Technologies:</b> Python · APIs · Database Management · Flutter
+
+<a href="https://github.com/Rafiqua-9Sultana/ai-powered-blood-availability-system">
+  <img src="https://img.shields.io/badge/View%20Project-6A5ACD?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 </td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
 
 <h3>🎨 Cartoonizing Real Images</h3>
 
