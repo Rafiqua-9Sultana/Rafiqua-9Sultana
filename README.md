@@ -135,11 +135,15 @@ A project focused on identifying and detecting potentially malicious phishing UR
 <tr>
 <td width="50%" valign="top">
 
-<h3>🛡️ AI-Driven Ransomware Detection</h3>
+<h3>🛡️ AI-Driven-Intelligent Ransomware Detection System</h3>
 
 Detecting potential ransomware threats using AI-driven cybersecurity techniques.
 
 <b>Technologies:</b> Python · Machine Learning · Cybersecurity
+
+<a href="https://github.com/Rafiqua-9Sultana/AI-Driven-Intelligent-Ransomware-Detection">
+  <img src="https://img.shields.io/badge/View%20Project-6A5ACD?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 </td>
 
