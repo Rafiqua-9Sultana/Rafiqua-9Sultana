@@ -101,32 +101,31 @@ Hello! I'm **Rafiqua Sultana**, an aspiring AI & Machine Learning Engineer passi
 <tr>
 <td width="50%" valign="top">
 
+<h3>🛡️ AI-Driven Ransomware Detection</h3>
+
+Detecting potential ransomware threats using AI-driven cybersecurity techniques.
+
+<b>Technologies:</b> Python · Machine Learning · Cybersecurity
+
+<br><br>
+
+<a href="https://github.com/Rafiqua-9Sultana/AI-Driven-Intelligent-Ransomware-Detection">
+<img src="https://img.shields.io/badge/View_Project-6A5ACD?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+<td width="50%" valign="top">
+
 <h3>🛡️ Veylix – Threat Intelligence</h3>
 
 An intelligent digital threat intelligence platform designed to identify, analyze, and understand potential online threats.
 
 <b>Technologies:</b> Python · AI/ML · Cybersecurity
 
-<br/><br/>
+<br><br>
 
 <a href="https://github.com/Rafiqua-9Sultana/veylix-threat-intelligence">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="View Veylix Project"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>🔍 Phishing URL Detection</h3>
-
-A project focused on identifying and detecting potentially malicious phishing URLs to help improve online security.
-
-<b>Technologies:</b> Python · Machine Learning · Cybersecurity
-
-<br/><br/>
-
-<a href="https://github.com/Rafiqua-9Sultana/phishing-url-detection">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="View Phishing URL Project"/>
+<img src="https://img.shields.io/badge/View_Project-6A5ACD?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </td>
@@ -135,31 +134,38 @@ A project focused on identifying and detecting potentially malicious phishing UR
 <tr>
 <td width="50%" valign="top">
 
-<h3>🛡️ AI-Driven-Intelligent Ransomware Detection System</h3>
-
-Detecting potential ransomware threats using AI-driven cybersecurity techniques.
-
-<b>Technologies:</b> Python · Machine Learning · Cybersecurity
-
-<a href="https://github.com/Rafiqua-9Sultana/AI-Driven-Intelligent-Ransomware-Detection">
-  <img src="https://img.shields.io/badge/View%20Project-6A5ACD?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</td>
-
-<<td width="50%" valign="top">
-
 <h3>🩸 AI-Powered Blood Availability System</h3>
 
 A smart blood availability platform designed to simplify donor searches, check blood resources, and connect people with available blood.
 
 <b>Technologies:</b> Python · APIs · Database Management · Flutter
 
+<br><br>
+
 <a href="https://github.com/Rafiqua-9Sultana/ai-powered-blood-availability-system">
-  <img src="https://img.shields.io/badge/View%20Project-6A5ACD?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/View_Project-6A5ACD?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </td>
+<td width="50%" valign="top">
+
+<h3>🔍 Phishing URL Detection</h3>
+
+A project focused on identifying and detecting potentially malicious phishing URLs to improve online security.
+
+<b>Technologies:</b> Python · Machine Learning · Cybersecurity
+
+<br><br>
+
+<a href="https://github.com/Rafiqua-9Sultana/phishing-url-detection">
+<img src="https://img.shields.io/badge/View_Project-6A5ACD?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
 
 <h3>🎨 Cartoonizing Real Images</h3>
 
@@ -167,14 +173,13 @@ Exploring image transformation between cartoon-style and realistic images.
 
 <b>Technologies:</b> Python · Computer Vision · Deep Learning
 
-<br/><br/>
+<br><br>
 
 <a href="https://github.com/Rafiqua-9Sultana/cartoonizing-real-images">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="View Cartoonizing Project"/>
+<img src="https://img.shields.io/badge/View_Project-6A5ACD?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </td>
-
 <td width="50%" valign="top">
 
 <h3>📊 Student Performance Prediction</h3>
@@ -183,10 +188,10 @@ Predicting academic performance using machine learning techniques.
 
 <b>Technologies:</b> Python · Pandas · Scikit-learn
 
-<br/><br/>
+<br><br>
 
 <a href="https://github.com/Rafiqua-9Sultana/student-performance-prediction">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="View Student Performance Project"/>
+<img src="https://img.shields.io/badge/View_Project-6A5ACD?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </td>
@@ -201,14 +206,13 @@ Exploring reinforcement learning through an interactive dinosaur game.
 
 <b>Technologies:</b> Python · Reinforcement Learning · Game AI
 
-<br/><br/>
+<br><br>
 
 <a href="https://github.com/Rafiqua-9Sultana/trex-dino-rl">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="View T-Rex Project"/>
+<img src="https://img.shields.io/badge/View_Project-6A5ACD?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </td>
-
 <td width="50%" valign="top">
 
 <h3>🤖 AI & Machine Learning</h3>
