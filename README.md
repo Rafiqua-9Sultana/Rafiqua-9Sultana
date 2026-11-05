@@ -198,11 +198,6 @@ Exploring image transformation between cartoon-style and realistic images.
 </td>
 </tr>
 
-<a href="https://github.com/Rafiqua-9Sultana/cartoonizing-real-images">
-<img src="https://img.shields.io/badge/View_Project-6A5ACD?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</td>
 <td width="50%" valign="top">
 
 <h3>📊 Student Performance Prediction</h3>
