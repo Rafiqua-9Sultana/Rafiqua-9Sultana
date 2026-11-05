@@ -198,12 +198,6 @@ Exploring image transformation between cartoon-style and realistic images.
 </td>
 </tr>
 
-Exploring image transformation between cartoon-style and realistic images.
-
-<b>Technologies:</b> Python · Computer Vision · Deep Learning
-
-<br><br>
-
 <a href="https://github.com/Rafiqua-9Sultana/cartoonizing-real-images">
 <img src="https://img.shields.io/badge/View_Project-6A5ACD?style=for-the-badge&logo=github&logoColor=white">
 </a>
