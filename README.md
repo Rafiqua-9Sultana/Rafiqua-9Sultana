@@ -167,7 +167,36 @@ A project focused on identifying and detecting potentially malicious phishing UR
 <tr>
 <td width="50%" valign="top">
 
+<h3>📸 CodeSnap – Code Image Generator</h3>
+
+A customizable code screenshot generator that transforms code snippets into beautiful images with themes, backgrounds, and styling options.
+
+<b>Technologies:</b> React · TypeScript · Vite · CSS
+
+<br><br>
+
+<a href="https://github.com/Rafiqua-9Sultana/codesnap">
+<img src="https://img.shields.io/badge/View_Project-6A5ACD?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
 <h3>🎨 Cartoonizing Real Images</h3>
+
+Exploring image transformation between cartoon-style and realistic images.
+
+<b>Technologies:</b> Python · Computer Vision · Deep Learning
+
+<br><br>
+
+<a href="https://github.com/Rafiqua-9Sultana/cartoonizing-real-images">
+<img src="https://img.shields.io/badge/View_Project-6A5ACD?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+</tr>
 
 Exploring image transformation between cartoon-style and realistic images.
 
