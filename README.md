@@ -114,6 +114,7 @@ Detecting potential ransomware threats using AI-driven cybersecurity techniques.
 </a>
 
 </td>
+
 <td width="50%" valign="top">
 
 <h3>🛡️ Veylix – Threat Intelligence</h3>
@@ -147,6 +148,7 @@ A smart blood availability platform designed to simplify donor searches, check b
 </a>
 
 </td>
+
 <td width="50%" valign="top">
 
 <h3>🔍 Phishing URL Detection</h3>
@@ -198,6 +200,7 @@ Exploring image transformation between cartoon-style and realistic images.
 </td>
 </tr>
 
+<tr>
 <td width="50%" valign="top">
 
 <h3>📊 Student Performance Prediction</h3>
@@ -209,6 +212,22 @@ Predicting academic performance using machine learning techniques.
 <br><br>
 
 <a href="https://github.com/Rafiqua-9Sultana/student-performance-prediction">
+<img src="https://img.shields.io/badge/View_Project-6A5ACD?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>📊 DataLens – Interactive Data Analytics Dashboard</h3>
+
+An interactive CSV analytics dashboard for exploring datasets, analyzing data quality, visualizing patterns, detecting outliers, and cleaning data.
+
+<b>Technologies:</b> React · TypeScript · Vite · PapaParse · Recharts · Plotly.js
+
+<br><br>
+
+<a href="https://github.com/Rafiqua-9Sultana/DataLens">
 <img src="https://img.shields.io/badge/View_Project-6A5ACD?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
@@ -231,6 +250,7 @@ Exploring reinforcement learning through an interactive dinosaur game.
 </a>
 
 </td>
+
 <td width="50%" valign="top">
 
 <h3>🤖 AI & Machine Learning</h3>
